@@ -1,7 +1,6 @@
 package lang.print.gaps.task5;
 
 import base.BaseIOTest;
-import lang.print.gaps.task5.TimeConvertor;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
